@@ -7,4 +7,3 @@ import androidx.compose.runtime.Composable
 fun ChatbotScreen() {
     Text("Chatbot Help - Coming Soon!")
 }
-//

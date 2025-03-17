@@ -7,4 +7,3 @@ import androidx.compose.runtime.Composable
 fun AccessibilitySettingsScreen() {
     Text("Accessibility Settings - Coming Soon!")
 }
-//

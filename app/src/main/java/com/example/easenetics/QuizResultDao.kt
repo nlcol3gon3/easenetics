@@ -15,4 +15,3 @@ interface QuizResultDao {
     @Query("SELECT COUNT(*) FROM quiz_results WHERE score = 100")
     suspend fun getCompletedCount(): Int
 }
-//

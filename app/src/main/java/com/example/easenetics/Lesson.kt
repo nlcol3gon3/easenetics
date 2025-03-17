@@ -10,4 +10,3 @@ data class Lesson(
     val content: String,
     val category: String // Added: "beginner", "intermediate", "advanced"
 )
-//

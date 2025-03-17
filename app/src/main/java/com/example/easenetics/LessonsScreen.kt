@@ -119,4 +119,3 @@ fun LessonsScreen(navController: NavController, db: AppDatabase) {
         }
     }
 }
-//

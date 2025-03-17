@@ -7,4 +7,3 @@ import androidx.compose.runtime.Composable
 fun VideoTutorialsScreen() {
     Text("Video Tutorials - Coming Soon!")
 }
-//
