@@ -12,3 +12,4 @@ interface LessonDao {
     @Query("SELECT * FROM lessons")
     suspend fun getAllLessons(): List<Lesson>
 }
+//

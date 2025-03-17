@@ -10,3 +10,4 @@ data class QuizResult(
     val score: Int,          // e.g., 100 for correct, 0 for incorrect
     val timestamp: Long = System.currentTimeMillis() // When the quiz was taken
 )
+//
