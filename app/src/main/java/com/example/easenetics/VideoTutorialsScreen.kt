@@ -8,4 +8,3 @@ fun VideoTutorialsScreen() {
     Text("Video Tutorials - Coming Soon!")
 }
 
-//
