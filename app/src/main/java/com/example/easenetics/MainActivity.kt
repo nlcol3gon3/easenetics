@@ -116,6 +116,14 @@ fun HomeScreen(navController: NavController) {
             ) {
                 Text("Progress", fontSize = 24.sp)
             }
+            Button(
+                onClick = { navController.navigate("videos") },
+                modifier = Modifier
+                    .padding(top = 20.dp)
+                    .size(width = 200.dp, height = 80.dp)
+            ) {
+                Text("Videos", fontSize = 24.sp)
+            }
         }
     }
 }
