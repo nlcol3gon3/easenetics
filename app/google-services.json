@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16855522428",
+    "project_id": "easenetics",
+    "storage_bucket": "easenetics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16855522428:android:770dd72acc9d68518d7df9",
+        "android_client_info": {
+          "package_name": "com.example.easenetics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ngxfGGriBjeByHxYfZ2sf132RD1ABfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
